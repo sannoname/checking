@@ -1,0 +1,12 @@
+{
+    "manifest_version": 3,
+    "name": "Chiikawa Market 自動化助手",
+    "version": "1.2",
+    "description": "自動轉換 JAN 碼為 Variant ID 並合成結帳連結",
+    "permissions": [
+        "activeTab"
+    ],
+    "action": {
+        "default_popup": "index.html"
+    }
+}
